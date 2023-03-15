@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+#target-div{
+    height: 100px;
+    width: 100px;
+    position:absolute;
+    top:45%;
+    left:45%;
+  
+} 
+#target-div:hover{
+    cursor: progress;
+}
+
+#target-div img{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: black;
+    /* font-size: x-large; */
+    font-weight:2300;
+    text-align: center;
+}
